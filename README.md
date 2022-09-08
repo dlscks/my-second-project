@@ -45,4 +45,10 @@
 10. git restore -- staged <파일명>   
     Staging Area의 파일을 Working directory로 가져옴
 
-![gitsheatsheet](gitsheatsheet.jpg)
+
+_기울기_
+
+|번호|이름|지역|
+|---|:---:|:---:|
+|111|홍길동|서울|
+|222|박차고 나온..|경기도 수원시|
